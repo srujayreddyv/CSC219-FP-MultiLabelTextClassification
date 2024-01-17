@@ -1,4 +1,4 @@
-# Multi Label Text Classification Using Transformers
+# Multi Label Text Classification Using BERT
 
 ## Project Overview
 This project aims at enhancing multi-label text classification using Transformer architectures. The focal point of this project is the BERT (Bidirectional Encoder Representations from Transformers) model. Our primary objective is to effectively capture label dependencies in multi-label text classification, an aspect often overlooked by traditional models.
