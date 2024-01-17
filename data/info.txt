@@ -16,10 +16,5 @@ The dataset includes multiple labels for each comment, categorizing them into di
 Purpose:
 The dataset is intended for the development and evaluation of machine learning models, particularly for multi-label text classification tasks. It is designed to aid in the automatic detection of toxic behavior in online discussions, contributing to healthier and more productive online interactions.
 
-@misc{jigsaw-toxic-comment-classification-challenge,
-    author = {cjadams, Jeffrey Sorensen, Julia Elliott, Lucas Dixon, Mark McDonald, nithum, Will Cukierski},
-    title = {Toxic Comment Classification Challenge},
-    publisher = {Kaggle},
-    year = {2017},
-    url = {https://kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge}
-}
+Citation:
+cjadams, Jeffrey Sorensen, Julia Elliott, Lucas Dixon, Mark McDonald, nithum, Will Cukierski. (2017). Toxic Comment Classification Challenge. Kaggle. https://kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge
