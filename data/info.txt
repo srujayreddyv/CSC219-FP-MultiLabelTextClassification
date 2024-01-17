@@ -2,7 +2,8 @@ Toxic Comment Classification Dataset
 ------------------------------------
 
 Overview:
-The Toxic Comment Classification dataset is a collection of comments from Wikipedia's talk page edits, labeled for various types of toxic behavior. This dataset was used in the "Toxic Comment Classification Challenge" hosted by Jigsaw/Conversation AI.
+The Toxic Comment Classification dataset is a collection of comments from Wikipedia's talk page edits, labeled for various types of toxic behavior. 
+This dataset was used in the "Toxic Comment Classification Challenge" hosted by Jigsaw/Conversation AI.
 
 Contents:
 The dataset includes multiple labels for each comment, categorizing them into different types of toxicity. The labels are:
@@ -14,7 +15,8 @@ The dataset includes multiple labels for each comment, categorizing them into di
 - Identity Hate
 
 Purpose:
-The dataset is intended for the development and evaluation of machine learning models, particularly for multi-label text classification tasks. It is designed to aid in the automatic detection of toxic behavior in online discussions, contributing to healthier and more productive online interactions.
+The dataset is intended for the development and evaluation of machine learning models, particularly for multi-label text classification tasks. 
+It is designed to aid in the automatic detection of toxic behavior in online discussions, contributing to healthier and more productive online interactions.
 
 Citation:
 cjadams, Jeffrey Sorensen, Julia Elliott, Lucas Dixon, Mark McDonald, nithum, Will Cukierski. (2017). Toxic Comment Classification Challenge. Kaggle. https://kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge
